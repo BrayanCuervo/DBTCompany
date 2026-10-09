@@ -33,7 +33,7 @@ export default function InicioScreen() {
       <Text style={styles.title}>DBT Companion</Text>
       <Text style={styles.subtitle}>Herramientas para el bienestar emocional</Text>
 
-      <Text style={styles.greeting}>Hola 👋</Text>
+      <Text style={styles.greeting}>Hola usuario👋</Text>
       <Text style={styles.question}>¿Qué necesitas en este momento?</Text>
 
       <View style={styles.actions}>
